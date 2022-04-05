@@ -1,4 +1,5 @@
 """
+Week 3  
 Name: Mingxuan Zhang
 """
 MINIMUM_LENGTH = 8
